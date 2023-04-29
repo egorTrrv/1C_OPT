@@ -44,9 +44,10 @@
 			<Metadata name="Catalog.ИдентификаторыОбъектовМетаданных.Attribute.Тип" id="98fce36a-faca-419a-8763-59cf2a61e382"/>
 			<Metadata name="Catalog.ИдентификаторыОбъектовМетаданных.Attribute.Синоним" id="b16c99d9-9dd2-4d2d-8ae5-495535a9820c"/>
 		</Metadata>
-		<Metadata name="Catalog.Контрагенты" id="e41cf03f-4ce3-4ac9-8a80-62bd2ec9d2c5" configVersion="0b5ed6044d029c47b0e8493b01b5b64f00000000">
+		<Metadata name="Catalog.Контрагенты" id="e41cf03f-4ce3-4ac9-8a80-62bd2ec9d2c5" configVersion="1a2175bc5b222344ad49b5732b1708a000000000">
 			<Metadata name="Catalog.Контрагенты.Attribute.КПП" id="1b3d3098-143e-44f4-a60f-5ee7abae46c5"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.ИНН" id="2ada1eb5-ffd2-42b4-8e7e-5c70a9710fab"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ГруппаКрови" id="9a0bc655-11d5-4497-a066-4a5d7d20b1d3"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.КонтактнаяПочта" id="b38b26a5-7963-49a5-bb61-b1532147961b"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.ИндексКартинки" id="c4bba662-8ea7-41d1-9518-9fdef6c82bf9"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.КонтактныйТелефон" id="f65be003-cefa-4d5c-8723-b488d7f79b09"/>
